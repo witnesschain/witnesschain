@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = git://github.com/witnesschain/server.git
+[submodule "ios-citizen"]
+	path = ios-citizen
+	url = git://github.com/witnesschain/iosApp.git
+[submodule "ios-police"]
+	path = ios-police
+	url = git://github.com/witnesschain/WitnessChainPolice.git
