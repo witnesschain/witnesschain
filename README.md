@@ -9,4 +9,8 @@ Welcome to WitnessChain! This folder contains code for our three apps: a Node.js
 
 ## Subfolders 
 
-We have three subfolders, one for each of our apps: `server`, `ios-citizen`, and `ios-police`. Each folder contains all the associated code as well as a README indicating how you can run the app locally.
+We have three subfolders, one for each of our apps: `server`, `ios-citizen`, and `ios-police`. Each folder contains all the associated code as well as a README with instructions for how to run the app locally.
+
+## GitHub
+
+You can also find our code in [the WitnessChain GitHub repositories](https://github.com/witnesschain).
