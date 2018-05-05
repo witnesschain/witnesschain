@@ -13,4 +13,4 @@ We have three subfolders, one for each of our apps: `server`, `ios-citizen`, and
 
 ## GitHub
 
-You can also find our code in [the WitnessChain GitHub repositories](https://github.com/witnesschain).
+You can also find our code [on the WitnessChain GitHub](https://github.com/witnesschain/witnesschain).
